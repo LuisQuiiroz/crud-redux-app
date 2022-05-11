@@ -1,0 +1,59 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "15"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Queso",
+      "precio": "400",
+      "id": 6
+    },
+    {
+      "nombre": "Jamon 500g",
+      "precio": 40,
+      "id": 7
+    },
+    {
+      "nombre": "Tocino 500g",
+      "precio": 50,
+      "id": 8
+    },
+    {
+      "nombre": "tostadas",
+      "precio": "20",
+      "id": 9
+    },
+    {
+      "nombre": "crema 500g",
+      "precio": 40,
+      "id": 10
+    },
+    {
+      "nombre": "cajeta 150g",
+      "precio": 23,
+      "id": 11
+    },
+    {
+      "nombre": "salchicha pz",
+      "precio": 3,
+      "id": 15
+    }
+  ]
+}
